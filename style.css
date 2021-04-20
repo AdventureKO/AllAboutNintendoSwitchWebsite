@@ -1,0 +1,228 @@
+/* Made By Afeef Ali */ /* My Ideal Entertainment */
+
+/* 4 HTML Pages, 1 CSS */
+/* NOT REFLEXIVE; Please view in fullscreen at 100% */
+/* All 7 downloaded images were screenshotted and cropped by me and not available on the internet. 
+The rest of the images' addresses were able to be found. */
+
+body {
+	text-align: center;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 1%;
+	padding-bottom: 5%;
+	border: 15px dotted white;
+	background-image-width: 50px;
+	background-color: #ff5a52;
+}
+
+nav {
+	border: 10px dashed black;
+	width: 99%;
+	background-color: #eb3b00;
+}
+
+button {
+	background-color: #111111;
+	border: 5px solid white;
+}
+
+button a:hover {
+	color: black;
+	background-color: #dce3dc;
+}
+
+a {
+	text-decoration: none;
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
+
+#current {
+	background-color: #b00f00;
+}
+
+footer {
+	border: 10px dashed black;
+}
+
+h1 {
+	font-family: sans-serif;
+	background: rgba(120, 115, 115, 0.5);
+	font-size: 8em;
+	text-align: center;
+	text-shadow: 15px 15px 5px rgba(20,18,20,0.5);
+	width: 99%;
+	border: 10px solid black;
+	box-shadow: 15px 15px 5px rgba(20,18,20,0.8);
+}
+
+header {
+	border: 10px dashed black;
+}
+
+#index {
+	background-image: url("https://pbs.twimg.com/media/Egfv5nhU8AE19iG.jpg:large");
+	padding: 35vh 0;
+	background-size: cover;
+	background-position: center;
+	color: white;
+	background-border: 5px solid black;
+}
+
+#specsFeatures {
+	background-image: url("https://cdn.arstechnica.net/wp-content/uploads/2016/12/poster-800x450.jpg");
+	padding: 35vh 0;
+	background-size: cover;
+	background-position: center;
+	color: white;
+	background-border: 5px solid black;
+}
+
+#gameLibrary {
+	background-image: url("https://media.karousell.com/media/photos/products/2020/03/17/nintendo_switch_games_rent_to_play_1584436655_2137a6f8_progressive.jpg");
+	padding: 35vh 0;
+	background-size: cover;
+	background-position: center;
+	color: white;
+	background-border: 5px solid black;
+}
+
+#whyToBuy {
+	background-image: url("https://pbs.twimg.com/media/DxHk7uwW0AYRSR_.jpg:large");
+	padding: 35vh 0;
+	background-size: cover;
+	background-position: center;
+	color: white;
+	background-border: 5px solid black;
+}
+
+
+article {
+	border: 10px dashed black;
+	padding-left: 5%;
+	padding-right: 5%;
+	background-color: #eb3b00;
+}
+
+hr {
+	border: 5px solid black;
+}
+
+section {
+	padding-left: 10%;
+	padding-right: 10%;
+	border: 10px solid black;
+	border-left: 40%
+}
+
+h2 {
+	font-family: monospace;
+	font-size: 50px;
+	text-decoration: underline;
+	color: white;
+}
+
+h3 {
+	font-family: monospace;
+	font-size: 40px;
+	text-decoration: underline;
+	color: white;
+}
+
+p {
+	font-family: initial;
+	font-size: 30px;
+	color: white;
+}
+
+ul {
+	font-family: initial;
+	font-size: 30px;
+	color: white;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+ol {
+	font-family: initial;
+	font-size: 30px;
+	color: white;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+select {
+	background-color: white;
+	border: 5px solid black;
+	border-radius: 10px;
+	font-size: 50px;
+}
+
+footer {
+	border: 10px dashed black;
+	width: 99%;
+	background-color: #eb3b00;
+	color: white;
+	font-size: 50px;
+}
+
+img {
+	border: 10px dashed black;
+}
+
+iframe {
+	border: 10px dashed black;	
+	position: relative;
+}
+
+table {
+	padding-left: 10%;
+	padding-right: 5%;
+}
+
+#anchorSwitch {
+	position: absolute;
+	height: 38%;
+	width: 28.5%;
+	top: 661.3%;
+	left: 23.85%;
+}
+
+#anchorSwitchLite {
+	position: absolute;
+	height: 38%;
+	width: 21.3%;
+	top: 661.3%;
+	left: 54%;
+}
+
+a img:hover {
+	border: 10px dashed white;
+}
+
+#multiClickImg {
+	border:none;
+}
+
+div {
+	border: 10px dashed black;
+	width: 1000px;
+}
+
+div:hover {
+	border: 10px dashed white;
+}
+
+#anchorSwitch:hover {
+	border: 5px solid gold;
+}
+
+#anchorSwitchLite:hover {
+	border: 5px solid red;
+}
+
+iframe:hover {
+	border: 10px dashed white;
+}
